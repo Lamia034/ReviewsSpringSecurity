@@ -1,4 +1,9 @@
 package com.example.ReviewsSpringSecurity.services;
+//
+//import com.example.ReviewsSpringSecurity.dtos.ReactionDto;
+//import com.example.ReviewsSpringSecurity.dtos.ReactionResponseDto;
 
-public class ReactionInterface {
+public interface ReactionInterface {
+//    ReactionResponseDto addReaction(ReactionDto reactionDto);
+
 }
